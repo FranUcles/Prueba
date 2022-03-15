@@ -1,5 +1,6 @@
 public class Programa {
-  public static main(){
+  public static void main(){
     System.out.println("Hola");
+    System.out.println("Una prueba rara");
   }
 }
